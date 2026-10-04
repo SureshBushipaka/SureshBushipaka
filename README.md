@@ -1,5 +1,5 @@
 # Hi, I'm Suresh Bushipaka! 👋
-- 🔭 Working on personal data analysis projects.
-- 🌱 Skills: SQL, Power BI, and Python.
-- 💡 Passionate about data storytelling and analytics.
+- 🔭 Working on ServiceNow Development.
+- 🌱 Skills: ServiceNow, ITSM,HRSD,CSM,ITOM,
+- 💡 Passionate about building servicenow applications
 - 📫 Reach me at bushipakasuresh@gamil.com.
